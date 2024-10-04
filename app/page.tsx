@@ -23,7 +23,10 @@ export default function Home() {
           <li>The app auto-updates as you edit the file.</li>
         </ol>
 
-        <p className="text-center sm:text-left">This is a basic homepage for a Next.js app. Feel free to customize it!</p>  
+        <p className="text-center sm:text-left">
+          This is a basic homepage for a Next.js app that has been customized. 
+          I added this text to demonstrate making changes and pushing to GitHub.
+        </p>
         
         <div className="flex gap-6 items-center flex-col sm:flex-row">
           <a
